@@ -1,5 +1,7 @@
 ---
+
 layout: resume
+
 ---
 
 <div id="page-wrap">[![Profile Picture](images/profile_picture.jpg)](https://www.instagram.com/christopher.moussa/?hl=en) 
