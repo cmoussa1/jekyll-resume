@@ -12,7 +12,7 @@ Email: [christopher.moussa97@gmail.com](mailto:christopher.moussa97@gmail.com)
 Avid baseballer. Below average video gamer. Software Developer at Lawrence Livermore National Laboratory.
 
 
-Education
+# Education
 
 
 ## **San Diego State University**San Diego, CA <span>May 2019</span>
@@ -22,7 +22,7 @@ Education
 *   Magna Cum Laude
 
 
-Technical Experience
+# Technical Experience
 
 
 ## **Software Engineer Intern**Lawrence Livermore National Laboratory <span>June 2018–August 2018</span>
@@ -46,7 +46,7 @@ Technical Experience
 *   Presented project accomplishments in oral and poster presentations
 
 
-Other Experience
+# Other Experience
 
 
 ## **Senior Resident Advisor**San Diego State University <span>July 2018–May 2019</span>
@@ -66,7 +66,7 @@ Other Experience
 *   Helped mediate conflicts between residents
 
 
-Skills
+# Skills
 
 
 ## **Languages**
@@ -82,7 +82,7 @@ Skills
 *   GitHub, Confluence, JIRA, Splunk, osquery
 
 
-Honors and Awards
+# Honors and Awards
 
 
 ## **San Diego State University Dean's List** <span>Fall 2015 - Fall 2018</span>
